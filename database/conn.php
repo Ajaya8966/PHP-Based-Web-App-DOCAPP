@@ -3,7 +3,7 @@ $host = 'localhost';
 //$port = 3307; // Assuming your MySQL server is running on port 3307 as an integer
 $user = 'root';
 $pass = '';
-$dbname = 'doctoras';
+$dbname = 'doctordb';
 
 // Create connection
 $conn =mysqli_connect($host, $user, $pass, $dbname);

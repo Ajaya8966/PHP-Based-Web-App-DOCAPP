@@ -2,9 +2,9 @@
     <div class="container">
         <div class="footer-content">
             <h3>Contact Us</h3>
-            <p>Email:Info@example.com</p>
-            <p>Phone:+9779803453227</p>
-            <p>Address:Babarmahal</p>
+            <p>Email:ajayashrestha.info@gmail.com</p>
+            <p>Phone:+9779823798966</p>
+            <p>Address:Maitidevi</p>
         </div>
         <div class="footer-content">
             <h3>Quick Links</h3>
